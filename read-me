@@ -1,0 +1,5 @@
+This notebook showcases the results of applying three different algorithms based on YOLOv8 (YOLOv8n, YOLOv8s, YOLOv8m) for 
+Computer Vision Predictions. Also there is an insights analysis efered to each of the algoriyhms,  based on those obtained 
+results, taking into account the target (detecting 'car' instances in the images).
+
+For running the notebook, there must be uncomprised the folders train, test & val
